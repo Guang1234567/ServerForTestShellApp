@@ -2,12 +2,14 @@
 	"code": 700,
 	"msg": "请求成功",
 	"data": [{
-			"id": "007",
-			"name": "网站1"
+			"id": "001",
+			"name": "小程序_001",
+			"packageUrl": "https://raw.githubusercontent.com/Guang1234567/ServerForTestShellApp/master/js_bundle_001.zip"
 		},
 		{
-			"id": "008",
-			"name": "网站2"
+			"id": "002",
+			"name": "小程序_002",
+			"packageUrl": "https://raw.githubusercontent.com/Guang1234567/ServerForTestShellApp/master/js_bundle_002.zip"
 		}
 	]
 }
