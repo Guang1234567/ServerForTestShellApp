@@ -6,7 +6,7 @@
 			"name": "小程序_001",
 			"deploymentKey": "kRoU6cuwFBos3K_gVNxnACAePGpG38540840-f9a2-4071-b5ef-fb1a72e9ba18",
 			"jsMainModuleName": "ShellApp",
-			"iconUrl": "https://reactnative.cn/img/header_logo.png",
+			"iconUrl": "http://resizing.flixster.com/DeLpPTAwX3O2LszOpeaMHjbzuAw=/53x77/dkpu1ddg7pbsk.cloudfront.net/movie/11/16/47/11164719_ori.jpg",
 			"downloadUrl": "https://raw.githubusercontent.com/Guang1234567/ServerForTestShellApp/master/js_bundle_001.zip",
 			"packageSize": 512950.0,
 			"packageHash": "296e1f07e27885598b697b3324780b9b77dc157f7569b17d173f885184157235",
@@ -15,7 +15,7 @@
 		{
 			"id": "002",
 			"name": "小程序_002",
-			"iconUrl": "https://reactnative.cn/img/header_logo.png",
+			"iconUrl": "https://www.baidu.com/img/bd_logo1.png",
 			"downloadUrl": "https://raw.githubusercontent.com/Guang1234567/ServerForTestShellApp/master/js_bundle_002.zip",
 			"packageSize": 512950.0,
 			"packageHash": "01c9015e74d053f7f38a827bd527ad0e7146cf197df3f223b1c96813adad099b",
@@ -26,7 +26,7 @@
 		{
 			"id": "003",
 			"name": "SampleAppMovies",
-			"iconUrl": "https://reactnative.cn/img/header_logo.png",
+			"iconUrl": "http://resizing.flixster.com/e3AKmyWuh1Wr4qMAM_vQ0vtN9AA=/54x77/dkpu1ddg7pbsk.cloudfront.net/movie/10/94/13/10941368_ori.jpg",
 			"downloadUrl": "https://raw.githubusercontent.com/Guang1234567/ServerForTestShellApp/master/js_bundle_002.zip",
 			"packageSize": 512950.0,
 			"packageHash": "37c9015e74d053f7f38a827bd527ad0e7146cf197df3f223b1c96813adad099b",
